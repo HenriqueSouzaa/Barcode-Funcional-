@@ -1,0 +1,10 @@
+
+#resultado{
+    position: absolute;
+    font-family: verdana;
+    font-size: 1.9em;    
+    top: 68px;
+    left: 80px;
+    color: green;
+
+}
